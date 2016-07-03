@@ -1,14 +1,6 @@
-testin'
-asdadsadasdadadadssadsag
-asdasdadssadasdasdadsadi
-bbbbbbbbbbbbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbb
-
-
-
-adding new piece of code
 <?php
 function echoWorld(){ 
 echo "Hello World";
 }
+echoWorld();
 ?>
