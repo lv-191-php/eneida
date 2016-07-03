@@ -3,4 +3,5 @@ echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
 function echoWorld(){ 
 echo "Hello World";
 }
+echoWorld();
 ?>
