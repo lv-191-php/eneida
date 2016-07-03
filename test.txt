@@ -1,6 +1,8 @@
 <?php
+$a = "function";
 function echoWorld(){ 
 echo "Hello World";
 }
+echo "<br>";
 echoWorld();
 ?>
